@@ -1,16 +1,19 @@
-## Hi there 👋
+## About Me 
 
-<!--
-**h1ppox99/h1ppox99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Stanford MS student in [ICME](https://icme.stanford.edu) interested in AI Safety and Interpretability. I previously obtained a BS & MS from École polytechnique in Applied Mathematics with a focus on Optimization and Machine Learning. 
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[**ring-attention**](https://github.com/h1ppox99/ring-attention)  
+*Ring Attention for Sequence Parallelism* 
+> Custom C++/CUDA implementation of Ring Attention optimized for Stanford HPCC cluster
+
+[**powerflow-gnn**](https://github.com/h1ppox99/powerflow-gnn)  
+*Graph Neural Networks for Power Systems* 
+> Using GNNs to model and predict power flow in electrical grids.
+
+---
+
+## Contact
+
+</a> hippowal [at] stanford [dot] edu
