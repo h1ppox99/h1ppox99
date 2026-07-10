@@ -17,3 +17,7 @@ Stanford MS student in [ICME](https://icme.stanford.edu) interested in AI Safety
 ## Contact
 
 </a> hippowal [at] stanford [dot] edu
+
+---
+
+<img src="pyopensci-credential.png" alt="pyOpenSci Python packaging" width="100">
