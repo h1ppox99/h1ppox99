@@ -12,12 +12,11 @@ Stanford MS student in [ICME](https://icme.stanford.edu) interested in AI Safety
 *Graph Neural Networks for Power Systems* 
 > Using GNNs to model and predict power flow in electrical grids.
 
+
+*<img src="https://cdn.certifier.io/fd06d46f-3fe5-49e4-aa2b-08487ba788b6/credentials/01ksn3pzf055c3xw8etnger0mt/designs/01ksn2x6pwf0cbxjs2gtvbg0xv/rlmkM3AZ4X.png" alt="pyOpenSci" width="40" align="middle">&nbsp;&nbsp;&nbsp;pyOpenSci Python Packaging*
+
 ---
 
 ## Contact
 
 </a> hippowal [at] stanford [dot] edu
-
----
-
-<img src="pyopensci-credential.png" alt="pyOpenSci Python packaging" width="100">
