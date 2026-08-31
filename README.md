@@ -8,7 +8,8 @@ Stanford MS student in [ICME](https://icme.stanford.edu) interested in AI Safety
 *Ring Attention for Sequence Parallelism* 
 > Custom C++/CUDA implementation of Ring Attention optimized for Stanford HPCC cluster
 
-[**powerflow-gnn**](https://github.com/h1ppox99/powerflow-gnn)  
+[**powerflow-gnn**](https://github.com/h1ppox99/powerflow-gnn) and [blog post](https://medium.com/@hippowal/accelerating-the-grid-enhanced-solving-of-optimal-power-flow-with-graph-neural-networks-4d8a6de2cc59)
+
 *Graph Neural Networks for Power Systems* 
 > Using GNNs to model and predict power flow in electrical grids.
 
