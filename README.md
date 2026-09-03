@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=550&lines=%F0%9F%91%8B+Hi%2C+I'm+Hippolyte+Wallaert;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+
 ## About Me 
 
 Stanford MS student in [ICME](https://icme.stanford.edu) interested in AI Safety and Interpretability. I previously obtained a BS & MS from École polytechnique in Applied Mathematics with a focus on Optimization and Machine Learning. 
