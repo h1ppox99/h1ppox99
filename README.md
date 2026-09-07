@@ -23,7 +23,6 @@ I am a MS student at Stanford in [ICME](https://icme.stanford.edu) interested in
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 
 - **Packaging**
 
