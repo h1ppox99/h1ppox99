@@ -2,7 +2,7 @@
 
 ## About Me 
 
-I am a MS student at Stanford in [ICME](https://icme.stanford.edu) interested in AI Safety and Interpretability. I previously obtained a BS & MS from École polytechnique in Applied Mathematics with a focus on Optimization and Machine Learning. 
+I am a MS student at Stanford in [ICME](https://icme.stanford.edu) interested in AI Safety and Interpretability. I previously obtained a BS & MS from École polytechnique in Applied Mathematics with a focus on Optimization and Machine Learning. You can find my resume [here](https://h1ppox99.github.io/Projects-reports/Resume_9_26.pdf).
 
 ## Featured projects
 
