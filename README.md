@@ -21,6 +21,8 @@ I am a MS student at Stanford in [ICME](https://icme.stanford.edu) interested in
 Repair Layers for Neural Optimization**](https://h1ppox99.github.io/Projects-reports/ICME_research_symposium_poster.pdf)
 - [**Solving Two-Stage Black-Box Linear Optimization with a
 Zero-order oracle**](https://h1ppox99.github.io/Projects-reports/MIT_project_report.pdf)
+- [**Estimation of Volatility in Market
+Microstructure**](https://h1ppox99.github.io/Projects-reports/EA_Recherche_Report.pdf)
 
 ## Skills  
 
