@@ -6,7 +6,8 @@ I am a MS student at Stanford in [ICME](https://icme.stanford.edu) interested in
 
 ## Featured projects
 
-[**ring-attention**](https://github.com/h1ppox99/ring-attention)  
+[**ring-attention**](https://github.com/h1ppox99/ring-attention) and [report](https://h1ppox99.github.io/Projects-reports/Ring_Attention_Stanford_HPCC.pdf)
+
 *Ring Attention for Sequence Parallelism* 
 > Custom C++/CUDA implementation of Ring Attention optimized for Stanford HPCC cluster
 
