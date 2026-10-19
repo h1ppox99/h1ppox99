@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=550&lines=%F0%9F%91%8B+Hi%2C+I'm+Hippolyte+Wallaert;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=550&lines=%F0%9F%91%8B+Hi%2C+I%27m+Hippolyte+Wallaert%3BWelcome+to+my+GitHub+profile%21&v=2)](https://git.io/typing-svg)
 
 ## About Me 
 
