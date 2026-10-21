@@ -18,6 +18,7 @@ I am a MS student at Stanford in [ICME](https://icme.stanford.edu) interested in
 
 ## Featured reports
 
+- [**Does Manifold Steering Require Manifold Fitting?**](https://h1ppox99.github.io/Projects-reports/Does_Manifold_Steering_Require_Manifold_Fitting.pdf)
 - [**Addressing Gradient Filtering in Differentiable
 Repair Layers for Neural Optimization**](https://h1ppox99.github.io/Projects-reports/ICME_research_symposium_poster.pdf)
 - [**Solving Two-Stage Black-Box Linear Optimization with a
