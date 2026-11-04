@@ -4,6 +4,16 @@
 
 I am a MS student at Stanford in [ICME](https://icme.stanford.edu) interested in AI Safety and Interpretability. I previously obtained a BS & MS from École polytechnique in Applied Mathematics with a focus on Optimization and Machine Learning. You can find my resume [here](https://h1ppox99.github.io/Projects-reports/Resume_10_26.pdf).
 
+## Featured reports
+
+- [**Does Manifold Steering Require Manifold Fitting?**](https://h1ppox99.github.io/Projects-reports/Does_Manifold_Steering_Require_Manifold_Fitting.pdf)
+- [**Addressing Gradient Filtering in Differentiable
+Repair Layers for Neural Optimization**](https://h1ppox99.github.io/Projects-reports/ICME_research_symposium_poster.pdf)
+- [**Solving Two-Stage Black-Box Linear Optimization with a
+Zero-order oracle**](https://h1ppox99.github.io/Projects-reports/MIT_project_report.pdf)
+- [**Estimation of Volatility in Market
+Microstructure**](https://h1ppox99.github.io/Projects-reports/EA_Recherche_Report.pdf)
+
 ## Featured projects
 
 [**ring-attention**](https://github.com/h1ppox99/ring-attention) and [report](https://h1ppox99.github.io/Projects-reports/Ring_Attention_Stanford_HPCC.pdf)
@@ -15,16 +25,6 @@ I am a MS student at Stanford in [ICME](https://icme.stanford.edu) interested in
 
 *Graph Neural Networks for Power Systems* 
 > Using GNNs to model and predict power flow in electrical grids.
-
-## Featured reports
-
-- [**Does Manifold Steering Require Manifold Fitting?**](https://h1ppox99.github.io/Projects-reports/Does_Manifold_Steering_Require_Manifold_Fitting.pdf)
-- [**Addressing Gradient Filtering in Differentiable
-Repair Layers for Neural Optimization**](https://h1ppox99.github.io/Projects-reports/ICME_research_symposium_poster.pdf)
-- [**Solving Two-Stage Black-Box Linear Optimization with a
-Zero-order oracle**](https://h1ppox99.github.io/Projects-reports/MIT_project_report.pdf)
-- [**Estimation of Volatility in Market
-Microstructure**](https://h1ppox99.github.io/Projects-reports/EA_Recherche_Report.pdf)
 
 ## Skills  
 
